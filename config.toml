@@ -1,0 +1,28 @@
+languageCode = "en-us"
+title = "Michael Hanney - AWS Certified Solutions Architect, Developer, Operations"
+baseurl = "https://michaelhanney.com"
+theme = "aerial"
+
+[params]
+  name = "Michael Hanney"
+  about = "AWS Certified Solutions Architect&nbsp;&bull;&nbsp;Developer&nbsp;&bull;&nbsp;Operations"
+  copyright = "mhanney"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/michaelhanney"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/zwiftalizer?lang=en"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/mhanney"
+
